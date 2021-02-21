@@ -1,0 +1,7 @@
+---
+Checks:          '*,-llvmlibc-*,-bugprone-exception-escape,-bugprone-unhandled-self-assignment,-cert-oop54-cpp,-fuchsia-trailing-return,-modernize-use-trailing-return-type,'
+WarningsAsErrors: '1'
+HeaderFilterRegex: ''
+FormatStyle:     none
+
+
